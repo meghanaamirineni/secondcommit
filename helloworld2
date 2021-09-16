@@ -1,0 +1,18 @@
+package NORTHWEST;
+
+/**
+ *
+ * @author S545227
+ */
+public class NORTHWEST {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Hello WOrld. I am coming for you!");
+        //Meghana Amirineni
+    }
+    
+}
